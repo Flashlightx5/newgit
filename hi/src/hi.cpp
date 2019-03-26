@@ -9,6 +9,9 @@
 #include <iostream>
 using namespace std;
 
+void stampa(char c){
+	cout<<c;
+}
 int main() {
 	cout << "!!!Hello github!!!" << endl; // prints !!!Hello World!!!
 	return 0;
