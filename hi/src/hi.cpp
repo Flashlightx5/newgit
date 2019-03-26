@@ -11,7 +11,7 @@ using namespace std;
 
 void stampa(char c){
 	cout<<c;
-}
+}//stampa 
 int main() {
 	cout << "!!!Hello github!!!" << endl; // prints !!!Hello World!!!
 	return 0;
