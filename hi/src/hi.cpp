@@ -14,9 +14,7 @@ void stampa(char c){
 }//stampa 
 
 
-//try
-
-//lets see oh yes
+//lets see whtas up
 int main() {
 	cout << "!!!Hello github!!!" << endl; // prints !!!Hello World!!!
 	return 0;
